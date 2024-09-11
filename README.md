@@ -1,1 +1,3 @@
 # Instagram-User-Analytics
+
+In this project, I performed an in-depth analysis of Instagram user data to support the marketing team in identifying the most loyal users, potential bots, and inactive accounts. Key insights included identifying users who had never posted a photo and finding the most commonly used hashtags on the platform. Additionally, I calculated the weekly user engagement using SQL queries, providing valuable data on user retention and growth over time. Through this analysis, I was able to help the team understand user behavior better and create strategies to improve engagement, reward loyalty, and increase content interaction. This project used SQL extensively for querying user engagement metrics and Excel for reporting and visualization.
